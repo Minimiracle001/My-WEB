@@ -1,0 +1,218 @@
+* {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 0px 20px;
+}
+
+.section1 {
+    display: flex;
+}
+
+.section11 {
+    margin-top: 3.4rem;
+    display: flex;
+    gap: 30rem;
+}
+
+.section-1-a {
+    display: flex;
+    gap: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.section-1-b {
+    display: flex;
+    gap: 4rem;
+    
+}
+
+.h3a {
+    font-size: 20.4px;
+}
+
+.b1 {
+    font-size: 1rem;
+    height: 36px;
+    border-radius: 2rem;
+}
+
+.icon {
+    vertical-align: middle;
+    justify-items: baseline;
+    width: 2rem;
+    height: 2rem;
+}
+
+.img2 {
+    width: 50%;
+    height: 50rem;
+}
+
+.section2 {
+    background-color: whitesmoke;
+    display: flex;
+}
+
+.section-2-a {
+    line-height: 1.3;
+    font-size: 2rem;
+    margin: 100px 200px;
+}
+
+.b2 {
+    padding: 20px 20px;
+    color: #fff;
+    background-color: black;
+    font-size: 1.5rem;
+}
+
+.txt3 {
+    margin-top: 1rem;
+}
+
+.section3 {
+    margin: 4rem 16rem;
+    display: flex;
+    gap: 12rem;
+}
+
+.img3 {
+    height: 8rem;
+}
+
+.section-4-a {
+    max-width: 50rem;
+    background-color: whitesmoke;
+}
+
+.section-4-a-1 {
+    width: 40rem;
+}
+
+.img4 {
+    margin: 1rem 8rem;
+}
+
+.box {
+    color: aqua;
+}
+
+.img5 {
+    margin: 2rem 12rem;
+    width: 4rem;
+    height: 4rem;
+}
+
+.section-4-a1 {
+    color: green;
+    line-height: 0;
+    margin-top: -2rem;
+    text-align: center;
+}
+
+.box1 {
+    color: green;
+    margin-top: 1.5rem;
+}
+.box2 {
+    color: aqua;
+    margin-right: 5rem;
+}
+
+.img6 {
+    margin: 2rem 8rem;
+    width: 17rem;
+    height: 10rem;
+}
+
+.section4 {
+    display: flex;
+    gap: 3rem;
+    margin: 1rem 3rem;
+}
+
+.div1 {
+    background-color: whitesmoke;
+    width: 30rem;
+}
+
+.div1a {
+    background-color: whitesmoke;
+    width: 28rem;
+    height: 25vh;
+}
+
+.div1b {
+    background-color: whitesmoke;
+    width: 28rem;
+    height: 24vh;
+}
+
+.s1 {
+    color: #000;
+}
+
+.link1 {
+    display: flex;
+    gap: 130px;
+}
+
+/** complete **/
+.section5 {
+    background-image: linear-gradient(black, black);
+    width: 100%;
+    height: 65vh;
+}
+
+.section5{
+    display: flex;
+}
+.main1{
+    padding: 200px 90px;
+    color: white;
+    line-height: 2.5;
+}
+.main1a{
+    display: flex;
+    gap: 35px;
+}
+.apex{
+    width: 150px;
+}
+.main2{
+    padding: 150px 0px;
+    display: flex;
+    height: 20rem;
+}
+.b3{
+    background-color: #fff;
+    color: #000;
+}
+.section6{
+    margin: 20px 40px;
+}
+.section7{
+    margin: 20px 40px;
+    display: flex;
+    gap: 8rem;
+}
+.e1{
+    width: 100%;
+}
+.section7a{
+    width: 40%;
+}
+.txtm{
+    margin: 2rem 0rem;
+}
+.txtm1{
+    margin: 5rem 0rem;
+}
